@@ -1,3 +1,6 @@
+
+# 目录
+ [面向Offer复习](https://github.com/GreedyPoseidon/VincentLeung.github.io/blob/gh-pages/Offer_Oriented_Review.md)
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/GreedyPoseidon/VincentLeung.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
@@ -11,8 +14,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# 目录
- [面向Offer复习](https://github.com/GreedyPoseidon/VincentLeung.github.io/blob/gh-pages/Offer_Oriented_Review.md)
 ## Header 2
 ### Header 3
 
