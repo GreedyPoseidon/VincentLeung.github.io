@@ -11,3 +11,12 @@
 
 *we propose the hetero-center based triplet loss to relax the strict constraint of traditional triplet loss through replacing the comparison of anchor to all the other samples by anchor center to all the other centers.*
 
+### Bag of Tricks and a Strong Baseline for Deep Person Re-Identification
+源码详见(https://github.com/michuanhaohao/reid-strong-baseline)
+> Market1501 global feature mAP 85.9 rank-1 94.5
+
+这是一篇关于VVReid的baseline和tricks的文章，我相信其中的思想会带来新的思路
+
+
+### Discriminative Spatial Feature Learning for Person Re-Identification ACM2020 (Part-level Feature)
+
