@@ -12,6 +12,9 @@
 
 *we propose the hetero-center based triplet loss to relax the strict constraint of traditional triplet loss through replacing the comparison of anchor to all the other samples by anchor center to all the other centers.*
 
+### Dynamic Dual-Attentive Aggregation Learning for Visible-Infrared Person Re-Identification
+> SYSU-MM01 All Search mAP 53.02 r=1 54.75; Indoor Search mAP 67.98 r=1 61.02
+
 ### Channel Augmented Joint Learning for Visible-Infrared Recognition
 
 > SYSU-MM01 All Search mAP 66.89 Indoor Search mAP 80.37
